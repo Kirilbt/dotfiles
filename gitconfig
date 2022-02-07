@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = kiril.tucker@gmail.com
+	name = Kiril Tucker
